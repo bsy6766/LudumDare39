@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: a6cc763678d36df4f90e62c7b3b4e70e
+timeCreated: 1501504632
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: floor
+    21300002: player
+    21300004: powerBar
+    21300006: powerBarBG
+    21300008: powercore
+    21300010: powerGeneratorFrame
+    21300012: powerGeneratorGlass
+    21300014: prop1
+    21300016: tile
+    21300018: wall
+    21300020: wallTop
+    21300022: wallTopCorner
+    21300024: wallTopVertical
+    21300026: powercoreAura
+    21300028: door
+    21300030: wallDeco
+    21300032: prop2
+    21300034: cursor
+    21300036: expBar
+    21300038: expBarBG
+    21300040: expBarFrame
+    21300042: expParticle
+    21300044: console
+    21300046: prop3
+    21300048: body
+    21300050: head
+    21300052: leg
+    21300054: power generator
+    21300056: prop4
+    21300058: prop5
+    21300060: coreHolder
+    21300062: consoleLayout
+    21300064: consolePanelBG
+    21300066: offline
+    21300068: online
+    21300070: upgradedBar
+    21300072: closeLabel
+    21300074: upgradeButton
+    21300076: pixel
+    21300078: alertBar
+    21300080: alertBarFrame
+    21300082: backToMenu
+    21300084: exit
+    21300086: resume
+    21300088: consolePanelBG - Copy
+    21300090: tutorial
+    21300092: upgrade
+    21300094: repairBar
+    21300096: repairBarFrame
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alertBar
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1656
+        width: 182
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: alertBarFrame
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1721
+        width: 192
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: backToMenu
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1943
+        width: 252
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: closeLabel
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1570
+        width: 102
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: console
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1763
+        width: 195
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: consoleLayout
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1308
+        width: 593
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: consolePanelBG
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1286
+        width: 731
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 28, z: 33, w: 29}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: coreHolder
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1591
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: door
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1539
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: exit
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1345
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: expBar
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1630
+        width: 172
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: expBarBG
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1689
+        width: 183
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: expBarFrame
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1880
+        width: 197
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: expParticle
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2019
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: floor
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1663
+        width: 896
+        height: 384
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: offline
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1992
+        width: 260
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: online
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1394
+        width: 85
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pixel
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 2046
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: powerBar
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1987
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: powerBarBG
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1870
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: powercore
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1596
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: powercoreAura
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1846
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: powerGeneratorFrame
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1370
+        width: 128
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: powerGeneratorGlass
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1912
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: prop1
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1424
+        width: 126
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: prop2
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1595
+        width: 54
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: -0.015384615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: prop3
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1897
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: prop4
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 1681
+        width: 47
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: prop5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1640
+        width: 47
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: repairBar
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1662
+        width: 55
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: repairBarFrame
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1301
+        width: 77
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: resume
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1543
+        width: 141
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tile
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1499
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tutorial
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1565
+        width: 853
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: upgrade
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1592
+        width: 148
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: upgradeButton
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1346
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: upgradedBar
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1957
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wall
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1175
+        width: 64
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wallDeco
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1219
+        width: 43
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wallTop
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1804
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wallTopCorner
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1562
+        width: 32
+        height: 32
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wallTopVertical
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1531
+        width: 64
+        height: 32
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
